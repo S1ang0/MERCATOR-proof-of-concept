@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this code, please cite it as below."
 title: "MERCATOR - Proof of Concept: Compensation Prices and Learning Signals in a Queue of Job Agents"
 version: 1.0.0
+doi: 10.5281/zenodo.23212939
 date-released: 2026-10-07
 license: MIT
 authors:

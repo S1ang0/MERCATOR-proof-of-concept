@@ -1,5 +1,7 @@
 # MERCATOR - Proof of Concept: Compensation Prices and Learning Signals in a Queue of Job Agents
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23212939.svg)](https://doi.org/10.5281/zenodo.23212939)
+
 This repository contains the proof-of-concept computations for the research project
 **MERCATOR – Markets or Plans? Economic Institutions for Self-Organising Production with Learning Agents**.
 
@@ -67,4 +69,4 @@ during training. The runs with compensation prices are not affected.
 ## Licence and citation
 
 Code and results are released under the MIT licence. Please cite this repository with the metadata in
-`CITATION.cff`.
+`CITATION.cff` (DOI: [10.5281/zenodo.23212939](https://doi.org/10.5281/zenodo.23212939)).
