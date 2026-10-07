@@ -1,4 +1,4 @@
-# MERCATOR proof of concept
+# MERCATOR - Proof of Concept: Compensation Prices and Learning Signals in a Queue of Job Agents
 
 This repository contains the proof-of-concept computations for the research project
 **MERCATOR – Markets or Plans? Economic Institutions for Self-Organising Production with Learning Agents**.

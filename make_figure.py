@@ -58,7 +58,7 @@ ax.set_xlim(-0.45, 2.45); ax.set_ylim(-0.08, 1.95)
 ax.legend(handles=handles, loc="upper center", bbox_to_anchor=(0.50, 0.92), handletextpad=0.3, labelspacing=0.6)
 ax.text(0.02, 0.98, "\u2193 lower = better", transform=ax.transAxes, fontsize=8, color=META, ha="left", va="top")
 ax.text(-0.18, 1.02, "b", transform=ax.transAxes, fontweight="bold", fontsize=10, va="bottom")
-meta = {"Author": "Sebastian Lang", "Title": "MERCATOR proof of concept"}
+meta = {"Author": "Sebastian Lang", "Title": "MERCATOR - Proof of Concept: Compensation Prices and Learning Signals in a Queue of Job Agents"}
 fig.savefig("figures/proof_of_concept.png", metadata=meta)
 fig.savefig("figures/proof_of_concept.pdf", metadata=meta)
 print("figure written")
